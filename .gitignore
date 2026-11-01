@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+cache/
+*.png
+!scripts/sample_data.json
+.DS_Store
+Thumbs.db
+.venv/
+venv/
